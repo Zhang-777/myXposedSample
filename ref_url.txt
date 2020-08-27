@@ -1,0 +1,11 @@
+https://repo.xposed.info/module/de.robv.android.xposed.installer
+
+https://forum.xda-developers.com/showthread.php?t=3034811
+
+https://blog.csdn.net/bsmmaoshenbo/article/details/85252716?biz_id=102&utm_term=android%20ssl%20unpinning&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-85252716&spm=1018.2118.3001.4187
+
+https://bbs.pediy.com/thread-213043.htm
+
+https://www.itdaan.com/tw/569a42298d23aba08e411378228fb7a6
+
+https://github.com/wizdzz/XposedInlineHook
